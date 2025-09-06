@@ -4,7 +4,8 @@ BistroFlow is a modern, elegant, and feature-rich digital storefront designed fo
 
 ### ➡️ [**View the Live Demo**](https://bistro-flow-sigma.vercel.app/)
 
-![BistroFlow Live Demo Screenshot](https://i.imgur.com/YOUR_SCREENSHOT_URL.png)
+![BistroFlow Live Demo Screenshot] <img width="1194" height="633" alt="image" src="https://github.com/user-attachments/assets/1c4afc5f-a178-4499-97b8-ba66b9099832" />
+
 
 *(**Action:** Replace the `https://i.imgur.com/YOUR_SCREENSHOT_URL.png` link with a direct link to a screenshot of your live application!)*
 
