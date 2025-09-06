@@ -1,0 +1,15 @@
+{
+  "header": {
+    "brand": "BistroFlow",
+    "viewOrder": "View your order, {{count}} items"
+  },
+  "hero": {
+    "title": "BistroFlow by Hussein",
+    "subtitle": "Where coastal flavors meet culinary art. An unforgettable experience awaits.",
+    "cta": "View Digital Menu"
+  },
+  "menu": {
+    "title": "Our Menu",
+    "subtitle": "A curated selection of the finest coastal and local delicacies."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "header": {
+    "brand": "BistroFlow",
+    "viewOrder": "Tazama oda yako, bidhaa {{count}}"
+  },
+  "hero": {
+    "title": "BistroFlow na Hussein",
+    "subtitle": "Ambapo ladha za pwani hukutana na sanaa ya upishi. Uzoefu usioweza kusahaulika unakungoja.",
+    "cta": "Tazama Menyu ya Kidijitali"
+  },
+  "menu": {
+    "title": "Menyu Yetu",
+    "subtitle": "Uteuzi ulioratibiwa wa vyakula bora vya pwani na vya kienyeji."
+  }
+}

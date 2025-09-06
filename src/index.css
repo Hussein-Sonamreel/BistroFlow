@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Accessible teal color */
+    --color-primary: 15 118 110; /* Teal 700 (#0f766e) */
+    --color-background: 249 250 251;
+    --color-surface: 255 255 255;
+    --color-on-background: 31 41 55;
+    --color-on-surface: 17 24 39;
+  }
+
+  .dark {
+    /* Accessible teal color */
+    --color-primary: 15 118 110; /* Teal 700 (#0f766e) */
+    --color-background: 18 18 18;
+    --color-surface: 30 30 30;
+    --color-on-background: 224 224 224;
+    --color-on-surface: 255 255 255;
+  }
+
+  html {
+    @apply scroll-smooth;
+  }
+  body {
+    @apply bg-background text-on-background antialiased font-sans transition-colors duration-300;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
