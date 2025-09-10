@@ -1,4 +1,5 @@
 # BistroFlow ✨
+# BistroFlow ✨
 
 BistroFlow is a modern, elegant, and feature-rich digital storefront designed for high-end coastal restaurants. This project is a comprehensive showcase of a modern, mobile-first ordering experience, built from the ground up with a professional tech stack and a keen eye for UI/UX, performance, and accessibility.
 
@@ -82,6 +83,9 @@ To get a local copy up and running, follow these simple steps.
 
     The application will be available at `http://localhost:5173`.
 
+---
+
+## 📜 Available Scripts
 ---
 
 ## 📜 Available Scripts
